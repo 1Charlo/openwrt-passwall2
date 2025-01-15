@@ -1448,6 +1448,7 @@ function gen_config(var)
         external_controller = "0.0.0.0:9090",
         external_ui = "metacubexd",
         external_ui_download_url = "https://ghp.ci/https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip",
+        external_ui_download_detour = "Direct",
         default_mode = "rule"
     }
     
